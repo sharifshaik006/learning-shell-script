@@ -27,3 +27,5 @@ so the file names are .bash or even lot people write as .sh linux doesnt care it
 
 I prefer using .sh than .bash
 
+we can execute the script as bash.sh
+
