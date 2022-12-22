@@ -1,0 +1,21 @@
+
+
+#while re running the script it wont be rewritting it. overwritting without promt by ( -o) is the solution
+
+problems................
+
+scripting is running though i am not root user
+we need to edit the file from CLI
+fetch the password and pass somewhere else
+need to handle the errors
+
+Enhancement:
+
+Output
+
+Understanding:
+How set command came to know that there was an error
+
+PROBLEM WITH THE SCRIPT...........
+it wont stop in middle if any command is failure, it just proceed by default ( set -e) is the solution
+
